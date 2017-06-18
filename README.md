@@ -1,7 +1,7 @@
 # ETHCourseworkLanguage
 A programming language designed for coursework at the ETH.
 
-Syntax according to (with a few extra features ;-):
+Syntax according to (with additional syntax):
 https://www.ethz.ch/content/dam/ethz/special-interest/infk/inst-cs/lst-dam/documents/Education/Classes/Fall2016/0027_Intro/Homework/u11.pdf
 
 https://www.ethz.ch/content/dam/ethz/special-interest/infk/inst-cs/lst-dam/documents/Education/Classes/Fall2016/0027_Intro/Homework/u12.pdf
